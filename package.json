@@ -1,0 +1,49 @@
+{
+  "name": "react-hotel",
+  "version": "0.1.0",
+  "homepage": "https://fuad1so.github.io/hotel-system",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "crypto-js": "^4.1.1",
+    "js-datepicker": "^5.18.2",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.16.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.8"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.1.1",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.4",
+    "pretty-quick": "^3.1.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged --verbose"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin"],
+        "correctAnswer": "Paris",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "correctAnswer": "Mars",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["African Elephant", "Blue Whale", "Giraffe"],
+        "correctAnswer": "Blue Whale",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Jane Austen", "Leo Tolstoy"],
+        "correctAnswer": "William Shakespeare",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Au", "Ag"],
+        "correctAnswer": "Au",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
+        "correctAnswer": "Carbon Dioxide",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean"],
+        "correctAnswer": "Pacific Ocean",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
+        "correctAnswer": "Mount Everest",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "correctAnswer": "Canberra",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Which planet is known as the Evening Star?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "correctAnswer": "Venus",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the largest land animal in the world?",
+        "options": ["African Elephant", "White Rhinoceros", "Hippopotamus"],
+        "correctAnswer": "African Elephant",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+        "correctAnswer": "Leonardo da Vinci",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": ["O", "Ox", "O2"],
+        "correctAnswer": "O",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "options": ["4", "5", "7"],
+        "correctAnswer": "7",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arctic Desert", "Antarctic Desert"],
+        "correctAnswer": "Antarctic Desert",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "options": ["J.K. Rowling", "Harper Lee", "Stephen King"],
+        "correctAnswer": "Harper Lee",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "W", "H"],
+        "correctAnswer": "H2O",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "What is the largest moon in our solar system?",
+        "options": ["Titan", "Ganymede", "Europa"],
+        "correctAnswer": "Ganymede",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    },
+    {
+        "question": "Who is known as the 'Father of Modern Physics'?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei"],
+        "correctAnswer": "Albert Einstein",
+        "correctEmoji": "🎉",
+        "incorrectEmoji": "😔"
+    }
+]
