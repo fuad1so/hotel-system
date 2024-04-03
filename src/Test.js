@@ -3,6 +3,11 @@ import { useState,useRef,useEffect ,useReducer} from "react";
 const Test= ()=> {
 
     const initialTodos = [
+        {
+            id: 30,
+          title: "Todo ",
+          complete: true,
+        }
         
         {
           id: 25,
